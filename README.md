@@ -1,11 +1,9 @@
-<div align="center">
-  <h1>🌟 Hi, I'm Saurabh N. Chaudhari!</h1>
-  <p align="center">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
-    </a>
-  </p>
-</div>
+### Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
+<h3 align="center">A passionate Web Devlopment Enthusiast from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh2244&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh2244" /> </p>
 
 ---
 
