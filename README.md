@@ -98,8 +98,8 @@
 <!-- Other Concepts -->
 <h3>Other Concepts</h3>
 <div style="display: flex; gap: 18px; align-items: center;">
-    <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
-    <img src="https://img.shields.io/badge/OOP's-000000?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
+    <img src="https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
+    <img src="https://img.shields.io/badge/OOP's-%2319C0C1?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
 </div>
 
 
