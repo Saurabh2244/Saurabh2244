@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
-<h3 align="center">I'm Saurabh Chaudhari, a passionate full-stack developer with expertise in React.js, Node.js, and MongoDB, coupled with a strong foundation in Data Structures and Algorithms. I enjoy building impactful projects and solving complex problems through efficient code. With achievements like the Knight Badge on LeetCode, a 3-star CodeChef rating, and over 1000+ DSA problems solved, I am constantly pushing my limits to grow in the tech world. 🚀</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
+<h3 align="center">A passionate web developer and DSA enthusiast from India, skilled in creating dynamic applications and solving complex problems.</h3>
 <p align="left">
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
