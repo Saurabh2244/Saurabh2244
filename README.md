@@ -23,30 +23,32 @@
 
 ## 🌐 Find Me On:
 
-<div align="center" style="display: flex; gap: 15px;">
-  <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
-  </a>
-  <a href="mailto:saurabhcnitrkl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40">
-  </a>
-  <a href="https://leetcode.com/u/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
-  </a>
-  <a href="https://www.codechef.com/users/" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="40">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/121meysqg" target="_blank">
-    <img src="https://img.shields.io/badge/GFG-%2300A6A6.svg?style=flat-circle&logo=GeeksforGeeks&logoColor=white" alt="GFG" height="40">
-  </a>
-  <a href="https://instagram.com/saurabh2003_official" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
-  </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+<div align="left" style="display: flex; gap: 15px; align-items: center;">
+    <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+    </a>
+    <a href="mailto:saurabhcnitrkl@gmail.com" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40">
+    </a>
+    <a href="https://leetcode.com/u/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
+    </a>
+    <a href="https://www.codechef.com/users/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="40">
+    </a>
+    <a href="https://auth.geeksforgeeks.org/user/121meysqg" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/GFG-%2300A6A6.svg?style=flat-circle&logo=GeeksforGeeks&logoColor=white" alt="GFG" height="40">
+    </a>
+    <a href="https://instagram.com/saurabh2003_official" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
+    </a>
+   <a href="https://facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" height="40">
-  </a>
-</div>
+</a>
 
+</a>
+
+</div>
 ---
 
 ## 💻 Tech Stack:
