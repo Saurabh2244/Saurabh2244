@@ -208,10 +208,8 @@ A visually interactive tool to help understand and visualize recursive algorithm
 ## 🏆 Achievements
 
 ### 🌐 **Web Developer Intern** at **Kratin Software Solutions Pvt. Ltd.**  
-Developed advanced front-end features and integrated solutions for a healthcare platform.
 
 ### 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
-Contributed to the *'PP Extruder Gearbox Input Shaft Bearing Failure'* project.
 
 ### 🏆 **Selected for Amazon ML Summer School 2024**  
 
