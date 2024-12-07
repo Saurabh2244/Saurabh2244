@@ -117,9 +117,14 @@
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-bottom: 20px;"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</div>
 
 ---
 
