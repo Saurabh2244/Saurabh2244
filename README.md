@@ -16,7 +16,7 @@
 
 -  👨‍💻 &nbsp;Read more about my projects at [Saurabh2244](https://github.com/Saurabh2244)
 
-- ⚡ Fun fact: **I hunt bugs like Sherlock—case closed! 🕵️‍♂️🐞**
+- ⚡ Fun fact: **I hunt bugs like Sherlock—case closed!🕵️‍♂️🐞**
 
 ---
 
