@@ -1,8 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on something cool 😉<br>👯 I’m looking to collaborate on Innovative full-stack apps, real-time systems, and open-source web projects.<br>🤝 I’m looking for help with Optimizing backend, scaling cloud solutions, and mastering advanced algorithms.<br>🌱 I’m currently learning Advanced Web Development and Cloud Computing<br>💬 Ask me about anything related to DSA, OOP, OS, DBMS, JavaScript, TypeScript, C++, or full-stack dev with React, MongoDB, Express, and Next.js!<br>⚡ Fun Fact: I write code like I’m solving a mystery – except the bugs are the criminals! 🕵️‍♂️🐛💻
 
+🔭 **Currently working on:** Something cool that I can't wait to share! 😎  
+👯 **Looking to collaborate on:** Innovative full-stack apps, real-time systems, and open-source web projects.  
+🤝 **Seeking help with:** Optimizing backends, scaling cloud solutions, and mastering advanced algorithms.  
+🌱 **Currently learning:** Advanced Web Development and Cloud Computing.  
+💬 **Feel free to ask me about:** DSA, OOP, OS, DBMS, JavaScript, TypeScript, C++, or full-stack development with React, MongoDB, Express, and Next.js!  
+⚡ **Fun Fact:** I write code like I’m solving a mystery – except the bugs are the criminals! 🕵️‍♂️🐛💻  
 
-## 🌐 Socials:
+---
+
+## 🌐 Find me on:
 
 <div align="left" style="display: flex; gap: 15px; align-items: center;">
     <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank" style="text-decoration: none;">
@@ -25,14 +32,11 @@
     </a>
 </div>
 
+---
 
+## 💻 Tech Stack:
 
-
-
-# 💻 Tech Stack:
-
-<!-- Programming Languages -->
-<h3>Programming Languages</h3>
+### Programming Languages:
 <div style="display: flex; gap: 30px; align-items: center;">
     <a href="https://en.cppreference.com/w/" target="_blank">
         <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++" height="40">
@@ -48,8 +52,7 @@
     </a>
 </div>
 
-<!-- Frontend Development -->
-<h3>Frontend Development</h3>
+### Frontend Development:
 <div style="display: flex; gap: 18px; align-items: center;">
     <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js" height="40">
@@ -65,8 +68,7 @@
     </a>
 </div>
 
-<!-- Backend Development -->
-<h3>Backend Development</h3>
+### Backend Development:
 <div style="display: flex; gap: 18px; align-items: center;">
     <a href="https://nodejs.org/en/docs/" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="40">
@@ -79,27 +81,7 @@
     </a>
 </div>
 
-<!-- API Development & Testing -->
-<h3>API Development & Testing</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
-    <a href="https://www.postman.com/docs" target="_blank">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="40">
-    </a>
-</div>
-
-<!-- Version Control & Collaboration -->
-<h3>Version Control & Collaboration</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
-    <a href="https://git-scm.com/doc" target="_blank">
-        <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git" height="40">
-    </a>
-    <a href="https://docs.github.com/en/github" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="40">
-    </a>
-</div>
-
-<!-- Deployment & Hosting -->
-<h3>Deployment & Hosting</h3>
+### Deployment & Hosting:
 <div style="display: flex; gap: 18px; align-items: center;">
     <a href="https://vercel.com/docs" target="_blank">
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="40">
@@ -112,60 +94,22 @@
     </a>
 </div>
 
-<!-- State Management -->
-<h3>State Management</h3>
+### Other Tools:
 <div style="display: flex; gap: 18px; align-items: center;">
-    <a href="https://redux.js.org/introduction/getting-started" target="_blank">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" height="40">
+    <a href="https://www.postman.com/docs" target="_blank">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="40">
+    </a>
+    <a href="https://git-scm.com/doc" target="_blank">
+        <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git" height="40">
+    </a>
+    <a href="https://docs.github.com/en/github" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="40">
     </a>
 </div>
-
-<!-- Data Structures and Algorithms -->
-<h3>Data Structures and Algorithms</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
-    <a href="https://visualgo.net/en" target="_blank">
-        <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-000000?style=flat&logo=visual-studio-code&logoColor=white" alt="DSA" height="40">
-    </a>
-</div>
-
-<!-- Database Management System -->
-<h3>Database Management System</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
-    <a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
-        <img src="https://img.shields.io/badge/DBMS-000000?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
-    </a>
-</div>
-
-<!-- Other Concepts -->
-<h3>Other Concepts</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
-    <a href="https://www.geeksforgeeks.org/operating-systems/" target="_blank">
-        <img src="https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
-    </a>
-    <a href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/" target="_blank">
-        <img src="https://img.shields.io/badge/OOP's-%2319C0C1?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
-    </a>
-</div>
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saurabh2244&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <a href="https://visitcount.itsvg.in" target="_blank" style="text-decoration: none;">
-        <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="visitor counter" style="border: 2px solid #6c757d; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    </a>
-</div>
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh224
