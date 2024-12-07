@@ -1,23 +1,20 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
-<h3 align="center">A passionate Web Devlopment Enthusiast from India</h3>
+<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
-<p align="left">
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
-    </a>
-  </p>
+<p align="left"> <a href="https://twitter.com/shadirmuhammedh" target="blank"><img src="https://img.shields.io/twitter/follow/shadirmuhammedh?logo=twitter&style=for-the-badge" alt="shadirmuhammedh" /></a> </p>
 
----
+- 🌱 I’m currently learning **WordPress**
 
-## 🌟 About Me
+- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
 
-💻 **Currently working on:** An exciting project, launching soon!  
-🤝 **Looking to collaborate on:** Full-stack applications, real-time systems, and open-source contributions.  
-📚 **Currently learning:** Advanced Web Development & Cloud Computing.  
-🔍 **Ask me about:** DSA, OOP, OS, DBMS, JavaScript, TypeScript, C++, and full-stack development (React, MongoDB, Express, Next.js).  
-⚡ **Fun Fact:** I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞
+- 💬 Ask me about **MERN stack and related technologies**
+
+- 📫 How to reach me **muhammedhshadir@gmail.com**
+
+- ⚡ Fun fact **Football fanatic, Madridista**
 
 ---
 
