@@ -48,6 +48,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 💻 Tech Stack:
@@ -176,8 +177,7 @@
 - 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
 - 🏆 **Selected for Amazon ML Summer School 2024**  
 - 💡 **Problem-Solving Milestones:**  
-  - *LeetCode:* Knight Badge (Top 5%), Global Rank **618** in Weekly Contest 377.  
-  - *CodeChef:* 4-star Coder, Global Ranks **73** (Starter 156) & **784** (Starter 136).  
-  - Solved over **400+ problems**.
+  - **LeetCode:** Knight Badge (**Top 5%**), Global Rank **618** in **Weekly Contest 377**.  
+  - **CodeChef:** **4-star Coder**, Global Ranks **73** (**Starter 156**) & **784** (**Starter 136**).  
+  - **GFG:** Ranked **7th nationally** in **Weekly Contest 124**, **Institute Rank 8/5450 geeks**.  
 
-Feel free to clone this format for inspiration or further tweaks! 🎉
