@@ -221,6 +221,6 @@ A visually interactive tool to help understand and visualize recursive algorithm
 
 ---
 
-## 📈 GitHub Activity:
+## 📈 Profile Views:
 
-![Manjay Pandey's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh2244&theme=react-dark&hide_border=true)
+[![](https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6)](https://visitcount.itsvg.in)
