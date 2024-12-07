@@ -1,10 +1,11 @@
-# 💫 About Me:
+# 🌟 About Me
 
-👨‍💻 **Currently working on:** An exciting project, coming soon!  
-🤝 **Looking to collaborate on:** Full-stack apps, real-time systems, and open-source projects.  
-🌱 **Learning:** Advanced Web Development & Cloud Computing.  
-💬 **Ask me about:** DSA, OOP, OS, DBMS, JavaScript, TypeScript, C++, and full-stack development (React, MongoDB, Express, Next.js).  
-⚡ **Fun Fact:** I solve coding problems like a detective hunting bugs! 🕵️‍♂🐛
+💻 **Currently working on:** An exciting project, launching soon!  
+🤝 **Looking to collaborate on:** Full-stack applications, real-time systems, and open-source contributions.  
+📚 **Currently learning:** Advanced Web Development & Cloud Computing.  
+🔍 **Ask me about:** DSA, OOP, OS, DBMS, JavaScript, TypeScript, C++, and full-stack development (React, MongoDB, Express, Next.js).  
+⚡ **Fun Fact:** I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞
+
 
 
 ---
