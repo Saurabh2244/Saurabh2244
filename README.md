@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
 <h3 align="center">A passionate Web Devlopment Enthusiast from India</h3>
 
-<p align="center">
+<p align="left">
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
     </a>
