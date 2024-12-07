@@ -84,20 +84,24 @@
 </div>
 
 <!-- Concepts Section -->
-<h3>Core Concepts</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
-    <!-- Data Structures and Algorithms -->
-    <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-000000?style=flat&logo=visual-studio-code&logoColor=white" alt="DSA" height="40">
+<div style="display: flex; gap: 18px; align-items: center; flex-wrap: nowrap;">
+    <p style="margin: 0;">
+        <img src="https://www.example.com/dsa-image.png" alt="Data Structures and Algorithms" height="40">
+    </p>
 
-    <!-- Database Management System -->
-    <img src="https://img.shields.io/badge/DBMS-000000?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
+    <p style="margin: 0;">
+        <img src="https://www.example.com/dbms-image.png" alt="DBMS" height="40">
+    </p>
 
-    <!-- Operating Systems -->
-    <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
+    <p style="margin: 0;">
+        <img src="https://www.example.com/os-image.png" alt="Operating Systems" height="40">
+    </p>
 
-    <!-- Object-Oriented Programming -->
-    <img src="https://img.shields.io/badge/OOP's-000000?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
+    <p style="margin: 0;">
+        <img src="https://www.example.com/oops-image.png" alt="OOP's" height="40">
+    </p>
 </div>
+
 
 
 
