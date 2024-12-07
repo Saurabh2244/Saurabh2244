@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
- <div align="left" style="display: inline-block;">
+<div align="left" style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
     </a>
@@ -24,6 +24,7 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
     </a>
 </div>
+
 
 
 # 💻 Tech Stack:
