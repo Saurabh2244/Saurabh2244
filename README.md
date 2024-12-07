@@ -118,13 +118,20 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-bottom: 20px;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Saurabh2244">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/Saurabh2244">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false" alt="GitHub Streak" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saurabh2244">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+  </a>
+</p>
 
 ---
 
