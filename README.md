@@ -161,6 +161,11 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6)](https://visitcount.itsvg.in)
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+    <a href="https://visitcount.itsvg.in" target="_blank" style="text-decoration: none;">
+        <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="visitor counter" style="border: 2px solid #6c757d; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    </a>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
