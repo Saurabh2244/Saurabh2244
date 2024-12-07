@@ -173,10 +173,24 @@
 
 ## 🏆 Achievements:
 
- 🌐 **Web Developer Intern** at **Kratin Software Solutions Pvt. Ltd.**  
- 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
- 🏆 **Selected for Amazon ML Summer School 2024**  
- 💡 **Problem-Solving Milestones:**  
-  - **LeetCode:** Knight Badge (**Top 5%**), Global Rank **618** in **Weekly Contest 377**.  
-  - **CodeChef:** **4-star Coder**, Global Ranks **73** (**Starter 156**) & **784** (**Starter 136**).  
-  - **GFG:** Ranked **7th nationally** in **Weekly Contest 124**, **Institute Rank 8/5450 geeks**.  
+### 🌐 Web Developer Intern  
+&nbsp;&nbsp;&nbsp;&nbsp;**Kratin Software Solutions Pvt. Ltd.**  
+
+### 🏭 Summer Internship  
+&nbsp;&nbsp;&nbsp;&nbsp;**Reliance Industries Limited, Navi Mumbai**  
+
+### 🏆 Selected for **Amazon ML Summer School 2024**  
+&nbsp;&nbsp;&nbsp;&nbsp;Achieved selection among highly competitive applicants.  
+
+### 💡 Problem-Solving Milestones  
+&nbsp;&nbsp;&nbsp;&nbsp;- **LeetCode:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Knight Badge (**Top 5%**)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Global Rank **618** in **Weekly Contest 377**  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;- **CodeChef:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **4-star Coder**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Global Ranks **73** (**Starter 156**) & **784** (**Starter 136**)  
+&nbsp;&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;&nbsp;&nbsp;- **GFG:**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ranked **7th nationally** in **Weekly Contest 124**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **Institute Rank 8/5450 geeks**  
