@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
+<h1 align="center">👋 Hey there, I'm Saurabh Chaudhari 🚀</h1>
+
 <h3 align="center">A Innovative  Web Developer and DSA Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left">
