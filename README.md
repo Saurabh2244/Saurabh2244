@@ -202,7 +202,11 @@
 
 
 ---
+### ✍️ Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
 ## 📈 Profile Views:
 
 [![](https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6)](https://visitcount.itsvg.in)
