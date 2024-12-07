@@ -4,32 +4,34 @@
 
 ## 🌐 Socials:
 
-<p align="left" style="display: flex; gap: 18px; align-items: center;">
-  <div> 
-     <a href="https://instagram.com/saurabh2003_official">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
-  </a>
+<p align="left" style="display: flex; gap: 18px; align-items: center; flex-wrap: nowrap;">
+  <div style="display: inline-flex;">
+    <a href="https://instagram.com/saurabh2003_official">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
+    </a>
   </div>
-
-   <div> <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
-  </a></div>
-
-  <div> 
-  <a href="mailto:saurabhcnitrkl@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40">
-  </a> </div>
-<div>
-  <a href="https://leetcode.com/u/missionMicrosoft_7692/" >
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
-  </a>
-</div>
-<div>
-  <a href="https://www.codechef.com/users/saurabh_1056" >
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="40">
-  </a>
-</div>
+  <div style="display: inline-flex;">
+    <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
+    </a>
+  </div>
+  <div style="display: inline-flex;">
+    <a href="mailto:saurabhcnitrkl@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40">
+    </a>
+  </div>
+  <div style="display: inline-flex;">
+    <a href="https://leetcode.com/u/missionMicrosoft_7692/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
+    </a>
+  </div>
+  <div style="display: inline-flex;">
+    <a href="https://www.codechef.com/users/saurabh_1056">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="40">
+    </a>
+  </div>
 </p>
+
 
 
 
