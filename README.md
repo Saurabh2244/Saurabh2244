@@ -203,12 +203,27 @@ A visually interactive tool to help understand and visualize recursive algorithm
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saurabh2244&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-## 🏆 Achievements:
+---
 
-- *Summer Internship* at *Reliance Industries Ltd.* (Nagothane) focused on the project *'PP Extruder Gearbox Input Shaft Bearing Failure'*.
-- Successfully developed a *Bank Management System* in C/C++.
-- *Interned* as a *Software Developer* at *Kratin Software Solutions Pvt. Ltd.* where I implemented advanced front-end features and integrations.
+## 🏆 Achievements
 
+- 🌐 **Web Developer Intern** at **Kratin Software Solutions Pvt. Ltd.**  
+  - Implemented advanced front-end features and integrated solutions into a healthcare platform.  
+- 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
+  - Worked on the project *'PP Extruder Gearbox Input Shaft Bearing Failure'*.  
+- 🏆 **Amazon ML Summer School 2024**  
+  - Selected for the prestigious program focused on Machine Learning fundamentals.  
+- 💡 **Problem-Solving Achievements**  
+  - **LeetCode**:  
+    - 🏅 Awarded the **Knight Badge** (top 5% distinction).  
+    - 🌍 **Global Rank 618** in Weekly Contest 377, outperforming **18,688 participants**.  
+  - **CodeChef**:  
+    - ⭐ Earned **4-star coder status**.  
+    - 🏆 **Global Rank 73** in Starter 156 (Division 3).  
+    - 🌍 **Rank 784** in Starter 136 (Division 2).  
+  - **GeeksforGeeks (GFG)**:  
+    - 🥇 **Ranked 7th nationally** in Weekly Contest 124 (top 1%).  
+    - 🏅 **Institute Rank 8th** out of **5,450 registered geeks**.  
 ---
 
 ## 📈 GitHub Activity:
