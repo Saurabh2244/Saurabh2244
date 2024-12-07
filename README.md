@@ -25,10 +25,6 @@
             <img src="https://img.shields.io/badge/GFG-%2300A6A6.svg?style=flat-circle&logo=GeeksforGeeks&logoColor=white"
                 alt="GFG" height="40">
         </a>
-        <a href="https://www.facebook.com/saurabh.chaudhari.5036459" target="_blank" style="text-decoration: none;">
-            <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-circle&logo=Facebook&logoColor=white"
-                alt="Facebook" height="40">
-        </a>
         <a href="https://instagram.com/saurabh2003_official" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"
                 alt="Instagram" height="40">
