@@ -13,7 +13,7 @@
 
 - 🌱  I’m currently learning **Advanced Web Development**
 
-- 💬 Ask me about **DSA, OOPs, OS, DBMS and MERN Stack**
+- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN Stack**
 
 -  👨‍💻 &nbsp;Read more about my projects at [Saurabh2244](https://github.com/Saurabh2244)
 
