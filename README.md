@@ -10,13 +10,13 @@
 
 - 🔭  I’m currently working on **something cool**😉
 
-- 🌱  I’m currently learning **Advanced Web Development and Cloud Computing**
+- 🌱  I’m currently learning **Advanced Web Development**
 
-- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN stack or any related technologies**
+- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN Stack**
 
 -  👨‍💻 &nbsp;Read more about my projects at [Saurabh2244](https://github.com/Saurabh2244)
 
-- ⚡ Fun fact: **I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞**
+- ⚡ Fun fact: **I hunt bugs like Sherlock—case closed! 🕵️‍♂️🐞**
 
 ---
 
