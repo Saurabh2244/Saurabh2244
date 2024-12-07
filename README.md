@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
-<h3 align="center">Passionate full stack developer with expertise in front-end technologies like HTML, CSS, and JavaScript, and back-end technologies like Node.js and MongoDB. Always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">I'm Saurabh Chaudhari, a passionate full-stack developer with expertise in React.js, Node.js, and MongoDB, coupled with a strong foundation in Data Structures and Algorithms. I enjoy building impactful projects and solving complex problems through efficient code. With achievements like the Knight Badge on LeetCode, a 3-star CodeChef rating, and over 1000+ DSA problems solved, I am constantly pushing my limits to grow in the tech world. 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedh-shadir&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedh-shadir" /> </p>
 
