@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
-<h3 align="center">🚀 Innovative Web Developer | 💡 DSA Enthusiast | 🎨 Creative Thinker</h3>
+<h3 align="center">A Innovative  Web Developer and DSA Enthusiast from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="left">
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
+    </a>
+  </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
-</p>
 
-<div align="center">
-  <img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-</div>
+- 🔭  I’m currently working on **something cool**😉
 
----
+- 🌱  I’m currently learning **Advanced Web Development and Cloud Computing**
 
-### 👨‍💻 About Me  
-- 🔭 **Currently Working On:** Something cool 😉  
-- 🌱 **Learning:** Advanced Web Development & Cloud Computing  
-- 💬 **Ask Me About:** DSA, OOP, OS, DBMS, MERN Stack & Related Tech  
-- 👨‍💻 **Explore My Work:** [GitHub Profile](https://github.com/Saurabh2244)  
-- ⚡ **Fun Fact:** I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞  
+- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN stack or any related technologies**
+
+-  👨‍💻 &nbsp;Read more about my projects at [Saurabh2244](https://github.com/Saurabh2244)
+
+- ⚡ Fun fact: **I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞**
 
 ---
 
