@@ -19,10 +19,10 @@
     <a href="mailto:saurabhcnitrkl@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40">
     </a>
-    <a href="https://leetcode.com/u/missionMicrosoft_7692/" target="_blank" style="text-decoration: none;">
+    <a href="https://leetcode.com/u/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
     </a>
-    <a href="https://www.codechef.com/users/saurabh_1056" target="_blank" style="text-decoration: none;">
+    <a href="https://www.codechef.com/users/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="40">
     </a>
     <a href="https://auth.geeksforgeeks.org/user/121meysqg" target="_blank" style="text-decoration: none;">
