@@ -9,7 +9,7 @@
   </p>
 
 
-- 🔭  I’m currently working on **something cool**😉
+- 🔭  I’m currently working on **Something Cool**😉
 
 - 🌱  I’m currently learning **Advanced Web Development**
 
