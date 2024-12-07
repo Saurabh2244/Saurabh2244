@@ -181,25 +181,7 @@
 
 ---
 
-## 🚀 Projects:
 
-### 1. *LearnHub: LMS*
-A dynamic and scalable learning management system for online courses.
-
-- *Tech Stack:* MongoDB, Express.js, React.js, Node.js
-- *Features:*  
-  - Course browsing, purchase, and review system  
-  - Instructor tools for course management  
-  - Integrated cloud media storage using Cloudinary  
-- [GitHub Repository](https://github.com/Saurabh2244/learnhub-lms)
-
-### 2. *Recursify: Recursion Visualizer*
-A visually interactive tool to help understand and visualize recursive algorithms.
-
-- *Tech Stack:* Next.js, TypeScript, Tailwind CSS, React Flow
-- [GitHub Repository](https://github.com/Saurabh2244/Recursify)
-
----
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saurabh2244&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
