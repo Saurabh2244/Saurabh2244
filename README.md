@@ -8,9 +8,9 @@
   </p>
 
 
-- 🔭  I’m currently working on something cool 😉
+- 🔭  I’m currently working on **something cool**😉
 
-- 🌱  I’m currently learning Advanced Web Development and Cloud Computing
+- 🌱  I’m currently learning **Advanced Web Development and Cloud Computing**
 
 - 💬 Ask me about **DSA, OOP, OS, DBMS and MERN stack or any related technologies**
 
