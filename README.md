@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Chaudhari</h1>
-<h3 align="center">A passionate web developer and DSA enthusiast from India, skilled in creating dynamic applications and solving complex problems.</h3>
+<h3 align="center">A passionate Web Developer and DSA enthusiast from India</h3>
 <p align="left">
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views" />
