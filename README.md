@@ -92,7 +92,7 @@
     </p>
 
     <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/DBMS-%233F51B5?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
+        <img src="https://img.shields.io/badge/DBMS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40">
     </p>
 
     <p style="margin: 0;">
