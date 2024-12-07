@@ -109,13 +109,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ## 🚀 Projects:
 
 ### 1. **LearnHub: LMS**
@@ -143,6 +136,10 @@ A visually interactive tool to help understand and visualize recursive algorithm
 - **Interned** as a **Software Developer** at **Kratin Software Solutions Pvt. Ltd.** where I implemented advanced front-end features and integrations.
 
 ---
+
+## 📈 GitHub Stats:
+
+![Manjay Pandey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saurabh2244&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 📈 GitHub Activity:
 
