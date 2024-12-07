@@ -8,15 +8,15 @@
   </p>
 
 
-- 🌱 I’m currently learning **WordPress**
+- 🔭  I’m currently working on something cool 😉
 
-- 👨‍💻 All of my projects are available at [muhammedh-shadir](muhammedh-shadir)
+- 🌱  I’m currently learning Advanced Web Development and Cloud Computing
 
-- 💬 Ask me about **MERN stack and related technologies**
+- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN stack or any related technologies**
 
-- 📫 How to reach me **muhammedhshadir@gmail.com**
+-  👨‍💻 &nbsp;Read more about my projects at [Saurabh2244](https://github.com/Saurabh2244)
 
-- ⚡ Fun fact **Football fanatic, Madridista**
+- ⚡ Fun fact: **I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞**
 
 ---
 
