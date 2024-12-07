@@ -112,4 +112,38 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh224
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🚀 Projects:
+
+### 1. **LearnHub: LMS**
+A dynamic and scalable learning management system for online courses.
+
+- **Tech Stack:** MongoDB, Express.js, React.js, Node.js
+- **Features:**  
+  - Course browsing, purchase, and review system  
+  - Instructor tools for course management  
+  - Integrated cloud media storage using Cloudinary  
+- [GitHub Repository](https://github.com/Saurabh2244/learnhub-lms)
+
+### 2. **Recursify: Recursion Visualizer**
+A visually interactive tool to help understand and visualize recursive algorithms.
+
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, React Flow
+- [GitHub Repository](https://github.com/Saurabh2244/Recursify)
+
+---
+
+## 🏆 Achievements:
+
+- **Summer Internship** at **Reliance Industries Ltd.** (Nagothane) focused on the project **'PP Extruder Gearbox Input Shaft Bearing Failure'**.
+- Successfully developed a **Bank Management System** in C/C++.
+- **Interned** as a **Software Developer** at **Kratin Software Solutions Pvt. Ltd.** where I implemented advanced front-end features and integrations.
+
+---
+
+## 📈 GitHub Activity:
+
+![Manjay Pandey's Activity](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh2244&theme=react-dark&hide_border=true)
