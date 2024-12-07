@@ -83,24 +83,22 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" height="40">
 </div>
 
-<!-- Data Structures and Algorithms -->
-<h3>Data Structures and Algorithms</h3>
+<!-- Concepts Section -->
+<h3>Core Concepts</h3>
 <div style="display: flex; gap: 18px; align-items: center;">
+    <!-- Data Structures and Algorithms -->
     <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-000000?style=flat&logo=visual-studio-code&logoColor=white" alt="DSA" height="40">
-</div>
 
-<!-- Database Management System -->
-<h3>Database Management System</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
+    <!-- Database Management System -->
     <img src="https://img.shields.io/badge/DBMS-000000?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
-</div>
 
-<!-- Other Concepts -->
-<h3>Other Concepts</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
+    <!-- Operating Systems -->
     <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
+
+    <!-- Object-Oriented Programming -->
     <img src="https://img.shields.io/badge/OOP's-000000?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
 </div>
+
 
 
 
