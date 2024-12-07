@@ -207,21 +207,18 @@ A visually interactive tool to help understand and visualize recursive algorithm
 
 ## 🏆 Achievements
 
-## 🏆 Achievements
+### 🌐 **Web Developer Intern** at **Kratin Software Solutions Pvt. Ltd.**  
+Developed advanced front-end features and integrated solutions for a healthcare platform.
 
-- 🌐 **Web Developer Intern** at **Kratin Software Solutions Pvt. Ltd.**  
-  Developed advanced front-end features and integrated solutions for a healthcare platform.  
+### 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
+Contributed to the *'PP Extruder Gearbox Input Shaft Bearing Failure'* project.
 
-- 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
-  Contributed to the project *'PP Extruder Gearbox Input Shaft Bearing Failure'*.  
+### 🏆 **Selected for Amazon ML Summer School 2024**  
 
-- 🏆 **Amazon ML Summer School 2024**  
-  Selected for the prestigious program focused on Machine Learning fundamentals.  
-
-- 💡 **Problem-Solving Milestones**  
-  - **LeetCode**: Knight Badge (Top 5%), Global Rank **618** in Weekly Contest 377.  
-  - **CodeChef**: 4-star Coder, Global Ranks **73** (Starter 156) & **784** (Starter 136).  
-  - **GFG**: Ranked **7th nationally** in Weekly Contest 124, Institute Rank **8/5450 geeks**.  
+### 💡 **Problem-Solving Milestones**  
+- **LeetCode**: Knight Badge (Top 5%), Global Rank **618** in Weekly Contest 377.  
+- **CodeChef**: 4-star Coder, Global Ranks **73** (Starter 156) & **784** (Starter 136).  
+- **GFG**: Ranked **7th nationally** in Weekly Contest 124, Institute Rank **8/5450 geeks**.
 
 ---
 
