@@ -30,6 +30,8 @@
 
 
 # 💻 Tech Stack:
+# 💻 Tech Stack:
+
 <!-- Programming Languages -->
 <h3>Programming Languages</h3>
 <div style="display: flex; gap: 18px; align-items: center;">
