@@ -83,26 +83,25 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" height="40">
 </div>
 
-<!-- Other Concepts -->
-### Core Concepts
-
-<div style="display: flex; gap: 18px; align-items: center; flex-wrap: nowrap;">
-    <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-%23FF7F50?style=flat&logo=code&logoColor=white" alt="Data Structures and Algorithms" height="40">
-    </p>
-
-    <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/DBMS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="40">
-    </p>
-
-    <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
-    </p>
-
-    <p style="margin: 0;">
-        <img src="https://img.shields.io/badge/OOP's-%2319C0C1?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
-    </p>
+<!-- Data Structures and Algorithms -->
+<h3>Data Structures and Algorithms</h3>
+<div style="display: flex; gap: 18px; align-items: center;">
+    <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-000000?style=flat&logo=visual-studio-code&logoColor=white" alt="DSA" height="40">
 </div>
+
+<!-- Database Management System -->
+<h3>Database Management System</h3>
+<div style="display: flex; gap: 18px; align-items: center;">
+    <img src="https://img.shields.io/badge/DBMS-000000?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
+</div>
+
+<!-- Other Concepts -->
+<h3>Other Concepts</h3>
+<div style="display: flex; gap: 18px; align-items: center;">
+    <img src="https://img.shields.io/badge/Operating%20Systems-000000?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
+    <img src="https://img.shields.io/badge/OOP's-000000?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
+</div>
+
 
 
 
