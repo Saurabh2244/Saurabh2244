@@ -4,20 +4,20 @@
 
 ## 🌐 Socials:
 
- <div align="left">
-    <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank" style="text-decoration: none; margin-right: 30px;">
+ <div align="left" style="display: inline-block;">
+    <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40">
     </a>
-    <a href="mailto:saurabhcnitrkl@gmail.com" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    <a href="mailto:saurabhcnitrkl@gmail.com" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" height="40">
     </a>
-    <a href="https://leetcode.com/u/missionMicrosoft_7692/" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    <a href="https://leetcode.com/u/missionMicrosoft_7692/" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" height="40">
     </a>
-    <a href="https://www.codechef.com/users/saurabh_1056" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    <a href="https://www.codechef.com/users/saurabh_1056" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef" height="40">
     </a>
-    <a href="https://auth.geeksforgeeks.org/user/121meysqg" target="_blank" style="text-decoration: none; margin-right: 30px;">
+    <a href="https://auth.geeksforgeeks.org/user/121meysqg" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <img src="https://img.shields.io/badge/GFG-%2300A6A6.svg?style=flat-circle&logo=GeeksforGeeks&logoColor=white" alt="GFG" height="40">
     </a>
     <a href="https://instagram.com/saurabh2003_official" target="_blank" style="text-decoration: none;">
