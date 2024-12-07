@@ -30,12 +30,10 @@
 
 
 # 💻 Tech Stack:
-# 💻 Tech Stack:
 
 <!-- Programming Languages -->
-<!-- Programming Languages -->
 <h3>Programming Languages</h3>
-<div style="display: flex; gap: 18px; align-items: center;">
+<div style="display: flex; gap: 30px; align-items: center;">
     <a href="https://en.cppreference.com/w/" target="_blank">
         <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++" height="40">
     </a>
