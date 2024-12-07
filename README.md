@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
- <div align="left" style="display: flex; gap: 30px; align-items: center; flex-wrap: nowrap;">
+ <div align="left" style="display: flex; gap: 30px; align-items: center; flex-wrap: wrap;">
         <a href="https://linkedin.com/in/saurabh-n-chaudhari-624725287/" target="_blank" style="text-decoration: none;">
             <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"
                 alt="LinkedIn" height="40">
