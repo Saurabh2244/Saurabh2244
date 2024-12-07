@@ -135,7 +135,7 @@
 <!-- Data Structures and Algorithms -->
 <h3>Data Structures and Algorithms</h3>
 <div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://visualgo.net/en" target="_blank">
+    <a href="https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/" target="_blank">
         <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-000000?style=flat&logo=visual-studio-code&logoColor=white" alt="DSA" height="40">
     </a>
 </div>
@@ -151,7 +151,7 @@
 <!-- Other Concepts -->
 <h3>Other Concepts</h3>
 <div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://www.linux.org/docs/" target="_blank">
+    <a href="https://www.geeksforgeeks.org/operating-systems/" target="_blank">
         <img src="https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
     </a>
     <a href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/" target="_blank">
