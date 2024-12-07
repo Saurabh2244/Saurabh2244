@@ -31,14 +31,13 @@
         </a>
     </div>
 
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-circle&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-n-chaudhari-624725287/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-circle&logo=gmail&logoColor=white)](mailto:saurabhcnitrkl@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-circle&logo=leetcode&logoColor=black)](https://leetcode.com/u/missionMicrosoft_7692/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-circle&logo=codechef&logoColor=white)](https://www.codechef.com/users/saurabh_1056)  
-[![GFG](https://img.shields.io/badge/GFG-%2300A6A6.svg?style=flat-circle&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-circle&logo=Facebook&logoColor=white)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-circle&logo=Instagram&logoColor=white)](https://instagram.com/saurabh2003_official)  
-
+    [[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-n-chaudhari-624725287/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhcnitrkl@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/missionMicrosoft_7692/)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/saurabh_1056)  
+[![GFG](https://img.shields.io/badge/GFG-%2300A6A6.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/saurabh2003_official)  
 
 
 # 💻 Tech Stack:
