@@ -201,7 +201,7 @@ A visually interactive tool to help understand and visualize recursive algorithm
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saurabh2244&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Saurabh2244&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏆 Achievements:
 
