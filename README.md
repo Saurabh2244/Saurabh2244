@@ -86,17 +86,24 @@
 <!-- Other Concepts -->
 ### Core Concepts
 
-- **Data Structures and Algorithms**  
-  ![Data Structures and Algorithms](https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-%23FF7F50?style=flat&logo=code&logoColor=white)
+<div style="display: flex; gap: 18px; align-items: center; flex-wrap: nowrap;">
+    <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-%23FF7F50?style=flat&logo=code&logoColor=white" alt="Data Structures and Algorithms" height="40">
+    </p>
 
-- **Database Management System (DBMS)**  
-  ![DBMS](https://img.shields.io/badge/DBMS-%233F51B5?style=flat&logo=database&logoColor=white)
+    <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/DBMS-%233F51B5?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
+    </p>
 
-- **Operating Systems**  
-  ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white)
+    <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
+    </p>
 
-- **Object-Oriented Programming (OOP's)**  
-  ![OOP's](https://img.shields.io/badge/OOP's-%2319C0C1?style=flat&logo=cplusplus&logoColor=white)
+    <p style="margin: 0;">
+        <img src="https://img.shields.io/badge/OOP's-%2319C0C1?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
+    </p>
+</div>
+
 
 
 
