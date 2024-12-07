@@ -6,7 +6,14 @@
 🔍 **Ask me about:** DSA, OOP, OS, DBMS, JavaScript, TypeScript, C++, and full-stack development (React, MongoDB, Express, Next.js).  
 ⚡ **Fun Fact:** I approach coding challenges like a detective solving mysteries—bugs are my criminals! 🕵️‍♂️🐞
 
+---
 
+<div align="center">
+    <h3>📈 Profile Views:</h3>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6" alt="Profile Views">
+    </a>
+</div>
 
 ---
 
@@ -31,20 +38,16 @@
     <a href="https://instagram.com/saurabh2003_official" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
     </a>
-   <a href="https://facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" height="40">
-</a>
-
-</a>
-
+    <a href="https://facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" height="40">
+    </a>
 </div>
 
 ---
 
 ## 💻 Tech Stack:
 
-<!-- Programming Languages -->
-<h3>Programming Languages</h3>
+### **Programming Languages**  
 <div style="display: flex; gap: 30px; align-items: center;">
     <a href="https://en.cppreference.com/w/" target="_blank">
         <img src="https://img.shields.io/badge/C%2FC++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++" height="40">
@@ -60,8 +63,7 @@
     </a>
 </div>
 
-<!-- Frontend Development -->
-<h3>Frontend Development</h3>
+### **Frontend Development**  
 <div style="display: flex; gap: 30px; align-items: center;">
     <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js" height="40">
@@ -77,8 +79,7 @@
     </a>
 </div>
 
-<!-- Backend Development -->
-<h3>Backend Development</h3>
+### **Backend Development**  
 <div style="display: flex; gap: 30px; align-items: center;">
     <a href="https://nodejs.org/en/docs/" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" height="40">
@@ -90,75 +91,6 @@
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" height="40">
     </a>
 </div>
-
-<!-- API Development & Testing -->
-<h3>API Development & Testing</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://www.postman.com/docs" target="_blank">
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="40">
-    </a>
-</div>
-
-<!-- Version Control & Collaboration -->
-<h3>Version Control & Collaboration</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://git-scm.com/doc" target="_blank">
-        <img src="https://img.shields.io/badge/Git-F1502F?style=flat&logo=git&logoColor=white" alt="Git" height="40">
-    </a>
-    <a href="https://docs.github.com/en/github" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="40">
-    </a>
-</div>
-
-<!-- Deployment & Hosting -->
-<h3>Deployment & Hosting</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://vercel.com/docs" target="_blank">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" height="40">
-    </a>
-    <a href="https://firebase.google.com/docs" target="_blank">
-        <img src="https://img.shields.io/badge/Firebase-FFCB2F?style=flat&logo=firebase&logoColor=black" alt="Firebase" height="40">
-    </a>
-    <a href="https://docs.netlify.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" height="40">
-    </a>
-</div>
-
-<!-- State Management -->
-<h3>State Management</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://redux.js.org/introduction/getting-started" target="_blank">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux" height="40">
-    </a>
-</div>
-
-<!-- Data Structures and Algorithms -->
-<h3>Data Structures and Algorithms</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/" target="_blank">
-        <img src="https://img.shields.io/badge/Data%20Structures%20and%20Algorithms-000000?style=flat&logo=visual-studio-code&logoColor=white" alt="DSA" height="40">
-    </a>
-</div>
-
-<!-- Database Management System -->
-<h3>Database Management System</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://www.geeksforgeeks.org/dbms/" target="_blank">
-        <img src="https://img.shields.io/badge/DBMS-000000?style=flat&logo=database&logoColor=white" alt="DBMS" height="40">
-    </a>
-</div>
-
-<!-- Other Concepts -->
-<h3>Other Concepts</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
-    <a href="https://www.geeksforgeeks.org/operating-systems/" target="_blank">
-        <img src="https://img.shields.io/badge/Operating%20Systems-%238E44AD?style=flat&logo=linux&logoColor=white" alt="Operating Systems" height="40">
-    </a>
-    <a href="https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/" target="_blank">
-        <img src="https://img.shields.io/badge/OOP's-%2319C0C1?style=flat&logo=cplusplus&logoColor=white" alt="OOP's" height="40">
-    </a>
-</div>
-
 
 ---
 
@@ -181,7 +113,6 @@
 
 ---
 
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Saurabh2244&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
@@ -190,23 +121,8 @@
 ## 🏆 Achievements
 
 ### 🌐 **Web Developer Intern** at **Kratin Software Solutions Pvt. Ltd.**  
-
 ### 🏭 **Summer Internship** at **Reliance Industries Limited, Navi Mumbai**  
-
 ### 🏆 **Selected for Amazon ML Summer School 2024**  
-
 ### 💡 **Problem-Solving Milestones**  
 - **LeetCode**: Knight Badge (Top 5%), Global Rank **618** in Weekly Contest 377.  
-- **CodeChef**: 4-star Coder, Global Ranks **73** (Starter 156) & **784** (Starter 136).  
-- **GFG**: Ranked **7th nationally** in Weekly Contest 124, Institute Rank **8/5450 geeks**.
-
-
----
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-## 📈 Profile Views:
-
-[![](https://visitcount.itsvg.in/api?id=Saurabh2244&icon=5&color=6)](https://visitcount.itsvg.in)
+- **CodeChef**: 4-star Coder, Global Ranks **73** in contests.
