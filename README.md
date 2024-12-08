@@ -8,13 +8,13 @@
 
 - 🔭  I’m currently working on **Something Cool**😉
 
-- 🌱  I’m currently learning **Advanced Web Development**
+- 🌱  I’m currently learning **Advanced Web Dev**
 
-- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN Stack**
+- 💬 Ask me about **DSA, OOP, OS, DBMS and MERN**
 
 -  👨‍💻 &nbsp;Read more about my projects at [Saurabh2244](https://github.com/Saurabh2244)
 
-- ⚡ Fun fact: **I hunt bugs like Sherlock-case closed!🕵️‍♂️🐞**
+- ⚡ Fun fact: **Sherlock mode: Bug solved! 🕵️‍♂️🐞**
 
 ---
 
