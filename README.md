@@ -73,7 +73,7 @@
 
 <!-- Frontend Development -->
 <h3>Frontend Development</h3>
-<div style="display: flex; gap: 30px; align-items: center;">
+<div style="display: flex; gap: 30px; align-items: center; wrap:nowrap">
     <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js" height="40">
     </a>
