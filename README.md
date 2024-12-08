@@ -178,3 +178,33 @@
   - **LeetCode:** Knight Badge (**Top 5%**), Global Rank **618** in **Weekly Contest 377**  
   - **CodeChef:** **4-star Coder**, Global Ranks **73** (**Starter 156**) & **784** (**Starter 136**)  
   - **GFG:** Ranked **7th nationally** in **Weekly Contest 124**, **Institute Rank 8/5450 geeks**  
+
+---
+## 📊 GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/Saurabh2244">
+    <img src="https://github-readme-stats.vercel.app/api?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" style="margin-right: 10px;" />
+  </a>
+  <a href="https://github.com/Saurabh2244">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh2244&theme=radical&hide_border=false" alt="GitHub Streak" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Saurabh2244">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh2244&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="50%" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Saurabh2244/Saurabh2244/blob/main/assets/coding.gif" alt="Coding Animation" width="400" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Profile!+%F0%9F%8C%9F;Passionate+Full-Stack+Developer!+%F0%9F%9A%80;Open+to+Collaboration+%F0%9F%92%AA;Let's+Build+Something+Awesome!+%F0%9F%92%BB" alt="Typing SVG Animation" />
+</p>
