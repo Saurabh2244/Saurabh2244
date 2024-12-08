@@ -3,7 +3,7 @@
 <h3 align="center">A Innovative  Web Developer and DSA Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh2244&label=Profile%20views&color=0e75b6&style=flat" alt="Saurabh2244" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh2244&label=Profile%20Views&color=0e75b6&style=flat" alt="Saurabh2244" /> </p>
 
 
 - 🔭  I’m currently working on **Something Cool**😉
