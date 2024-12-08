@@ -3,7 +3,7 @@
 <h3 align="center">A Innovative  Web Developer and DSA Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh2244&label=Profile%20Views&color=0e75b6&style=flat" alt="Saurabh2244" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saurabh2244&label=Profile%20Views&color=blueviolet&style=flat" alt="Saurabh2244" /> </p>
 
 
 - 🔭  I’m currently working on **Something Cool**😉
@@ -39,7 +39,7 @@
     <a href="https://instagram.com/saurabh2003_official" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" height="40">
     </a>
-   <a href="https://facebook.com/yourprofile" target="_blank" style="text-decoration: none;">
+   <a href="https://www.facebook.com/saurabh.chaudhari.5036459/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook" height="40">
 </a>
 
